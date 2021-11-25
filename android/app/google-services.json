@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "558404693584",
+    "project_id": "ajakmakan-id",
+    "storage_bucket": "ajakmakan-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558404693584:android:9df2cd104465deecb62b55",
+        "android_client_info": {
+          "package_name": "com.example.ajak_makan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558404693584-jqhlrrr5uj5qetgf6f61g24f3ppif4b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5vfVVi4xcPnlxm5vhMkVWyvN5wYI3S7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558404693584-jqhlrrr5uj5qetgf6f61g24f3ppif4b1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
